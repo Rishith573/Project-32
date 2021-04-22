@@ -81,7 +81,7 @@ function setup() {
   box24 = new Box3(1035, 300, 40, 40);
 
 // last layer of ground2
-  box25 = new Box3(995, 250, 40, 40)
+  box25 = new Box3(995, 275, 40, 40)
   
 }
 
