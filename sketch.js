@@ -163,7 +163,7 @@ async function getTime(){
   console.log(data);
   var datetime = data.datetime;
   console.log(datetime);
-  var hour = datetime.slice(62, 73);
+  var hour = datetime.slice(11, 13);
   console.log(hour);
 
   if (hour >=6 && hour <=18){
